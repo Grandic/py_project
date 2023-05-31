@@ -7,7 +7,6 @@ def minus(d,e):
     return g
 
 
-print(summ(1,2))
-print(minus(5,1))
+
 
 
